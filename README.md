@@ -1,6 +1,9 @@
 # GMAIL CHECK (SUPERFAST)
 
-This is a super-fast gmail checker implemented in go. The idea was originated from [@codedbrain](https://twitter.com/codedbrain) and I decided to rewrite it in go.
+This is a super-fast gmail checker implemented in go. The idea was originated from [@codedbrain](https://twitter.com/MRCodedBrain) and I decided to rewrite it in go.
+
+
+Original Python Implementation: https://github.com/codedbrain/gmailify
 
 
 # Installation
